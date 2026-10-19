@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkmdyasarbe||=[]).push([[550],{7550(e,r,n){n.d(r,{OverlapPluginInstance:()=>t});var s=n(9070);class t{#e;constructor(e){this.#e=e}checkParticlePosition(e,r,n){return!this.#r(e,r,n)}#r(e,r,n){const t=e.options.collisions;if(!t?.enable)return!1;const i=t.overlap;if(i.enable)return!1;const a=i.retries;if(a>=0&&n>a)throw new Error("Particle is overlapping and can't be placed");return!!this.#e.particles.find(n=>(0,s.Yf)(r,n.position)<e.getRadius()+n.getRadius())}}}}]);
+//# sourceMappingURL=550.7b794cc6.chunk.js.map
