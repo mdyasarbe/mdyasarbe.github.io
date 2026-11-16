@@ -1,10 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
-
-Allow: /about
-Allow: /education
-Allow: /experience
-Allow: /contact
 
 Sitemap: https://mdyasarbe.github.io/sitemap.xml
