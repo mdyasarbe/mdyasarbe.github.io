@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Yasar Portfolio",
+  "name": "Mohamad Yasar J - Software Developer Portfolio",
+  "description": "Software Developer with experience in designing, developing, and maintaining scalable enterprise applications. Strong expertise in backend development using Java, RESTful APIs, Kafka, Redis, and relational databases.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,18 +9,17 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "mohamadyasar.jpg",
+      "type": "image/jpeg",
+      "sizes": "1200x630",
+      "purpose": "any"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://mdyasarbe.github.io/",
+  "scope": "https://mdyasarbe.github.io/",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["business", "productivity"]
 }
